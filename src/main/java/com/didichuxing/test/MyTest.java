@@ -7,5 +7,6 @@ public class MyTest {
     public static void main(String[] args) {
         System.out.println("这是我的测试分支");
         System.out.println("qwer");
+        System.out.println("谁知道呢");
     }
 }
